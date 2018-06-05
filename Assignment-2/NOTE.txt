@@ -1,0 +1,2 @@
+-The script runs for the Python3 version.
+-Run the "run.py" script from terminal as python3 run.py
